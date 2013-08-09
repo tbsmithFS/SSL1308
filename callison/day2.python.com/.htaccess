@@ -1,0 +1,4 @@
+AddHandler cgi-script .py
+Options +ExecCGI
+RewriteEngine On
+RewriteRule ^([a-z]+)/([a-z]+)$ /index.php?con=$1&action=$2
