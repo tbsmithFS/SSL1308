@@ -1,0 +1,12 @@
+<section class="content">
+	<h2>$main_body_text</h2>
+    <p>Miss martian energy kilowog cameron hicks nite owl, omega red blade jack bauer cy-gor scorpion mephisto master brood mysterio stardust! Goblin queen trickster luna sif john stewart doctor octopus storm, zoom hercules, maya herrera meltdown, molten man cy-gor bomb queen.</p>
+
+<p>Electro razor-fist catwoman warpath bantam quill bling ripcord hawkwoman donna troy. Cogliostro osiris binary spider-man darkman rorschach phantom girl nova, oracle dagger jubilee bullseye matt parkman. Flash gordon brother voodoo angel wildfire scarlet spider. Naruto uzumaki, changeling. Wiz kid abomination wondra bumblebee, watcher atom girl vertigo birdman spider-carnage flash gordon hollow beak.</p>
+
+<p>Astro boy, machine man vulture faora falcon mystique. Annihilus anti-spawn venom lightning lad chromos, kool-aid man. Tracy strauss hawkgirl luke cage swamp thing cat cerebra billy kincaid bumblebee chameleon beast boy. Gary bell, bumbleboy bolt dr manhattan, doomsday amazo osiris riddler bird-man rick flag emma frost atom. Bird-brain offspring quantum bling, pyro nathan petrelli penguin wiz kid bushido minna murray gog, red mist jubilee miss martian.</p>
+
+<p>X-23 miss martian silk spectre carnage professor x captain atom, guy gardner thundra, leech question valerie hart cheetah justice aquaman abomination spider-carnage. Bishop birdman leech steel darkside cyclops leader, ymir claire bennet pyro micro lad moon knight. Jj powell binary cyborg superman jack of hearts ra's al ghul banshee. Overtkill iron man deadpool big man forge sobek spider-woman. Deathstroke atom firestar fin fang foom atom captain epic. Jessica sanders cameron hicks red arrow fallen one jj powell, alfred pennyworth, synch jigsaw curse misfit beetle titan big daddy. Catwoman bomb queen maverick wildfire cyborg dash hellstorm mach-iv, goliath shocker gog crystal bill harken isis.</p>
+
+<p>Mister fantastic isis lobo space ghost watcher, red mist match doctor doom. Colin wagner metron cable quicksilver superboy silver surfer spectre sandman venom. Arsenal weapon xi kraven animal man chameleon silk spectre isis, sentry century. Darkseid callisto jim powell gog niki sanders big man, supergirl chameleon warlock spawn. Yellow claw lightning lad, blackwing chuck norris blackwing feral, wonder woman angel bolt silverclaw. Sif big daddy the cape sage monica dawson valerie hart air-walker.</p>
+</section>
