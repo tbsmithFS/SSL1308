@@ -1,0 +1,54 @@
+/* CSS Reset */
+html, body, div, header, article, section, aside, footer, nav, ul, ol, li, p,
+form, fieldset, legend, label, input, h1, h2, h3, h4, hr, span, br, em, img {
+	margin: 0;
+	padding: 0;
+	border: none;
+	outline: none;
+}
+
+/* Presets  */
+body {
+	font-family : sans-serif;
+    line-height: 125%;
+}
+
+ul {
+	list-style-type: none;
+}
+
+/* FORM */
+#user_form, #message {
+	margin: 0 auto;
+	width: 200px;
+	padding: 10px;
+	border-radius: 10px;
+    position: relative;
+    top: 20px;
+	color: #ffffff;
+	background-color: #000000;
+}
+
+#user_form input {
+	margin: 5px 0;
+	width: 190px;
+	padding: 5px;
+	font-size: 14px;
+}
+
+#user_form .button {
+	width: 60px;
+	height: 25px;
+	border-radius: 5px;
+	position: relative;
+	left: 140px;
+	font-weight: bold;	
+}
+
+/* MESSAGE */
+#message {
+    position: relative;
+    top: 30px;
+    text-align: center;
+    background-color: #4d4d4d;   
+}
